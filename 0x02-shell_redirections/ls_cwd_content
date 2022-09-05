@@ -1,0 +1,15 @@
+total 4
+drwxr-xr-x 1 daniel daniel 4096 Sep  5 16:02 .
+drwxr-xr-x 1 daniel daniel 4096 Sep  5 13:47 ..
+-rwxr--r-- 1 daniel daniel   32 Sep  5 14:13 0-hello_world
+-rwxr--r-- 1 daniel daniel   28 Sep  5 14:32 1-confused_smiley
+-rwxr--r-- 1 daniel daniel   28 Sep  5 15:00 2-hellofile
+-rwxr--r-- 1 daniel daniel   39 Sep  5 15:15 3-twofiles
+-rwxr--r-- 1 daniel daniel   29 Sep  5 15:26 4-lastlines
+-rwxr--r-- 1 daniel daniel   29 Sep  5 15:30 5-firstlines
+-rwxr--r-- 1 daniel daniel   40 Sep  5 15:41 6-third_line
+-rwxr--r-- 1 daniel daniel   80 Sep  5 15:49 7-file
+-rw-r--r-- 1 daniel daniel   36 Sep  5 16:01 8-cwd_state
+-rw-r--r-- 1 daniel daniel   19 Sep  5 13:48 README.md
+-rw-r--r-- 1 daniel daniel    0 Sep  5 15:42 iacta
+-rw-r--r-- 1 daniel daniel    0 Sep  5 16:02 ls_cwd_content
